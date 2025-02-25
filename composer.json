@@ -1,0 +1,12 @@
+{
+    "require": {
+      "aws/aws-sdk-php": "^3.0",
+      "woocommerce/action-scheduler": "^3.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "DigitalOcean_Spaces_Sync\\": "src/"
+      }
+    }
+  }
+  
